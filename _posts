@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Introduction à l'analyse RNA-Seq"
+date: 2024-01-20
+categories: [bioinformatique, tutoriel]
+background: '/img/posts/rnaseq-bg.jpg'
+---
+
+## Pourquoi l'analyse RNA-Seq ?
+
+L'analyse RNA-Seq permet de mesurer l'expression génique à l'échelle du transcriptome...
+
+### Les étapes principales
+
+1. Contrôle qualité des reads
+2. Alignement sur le génome de référence
+3. Quantification de l'expression
+4. Analyse différentielle
+
+### Outils recommandés
+
+- **FastQC** pour le contrôle qualité
+- **STAR** ou **HISAT2** pour l'alignement
+- **featureCounts** pour la quantification
+- **DESeq2** ou **edgeR** pour l'analyse différentielle
+
+---
+
+*Prochain article : Analyse single-cell RNA-Seq avec Seurat*
