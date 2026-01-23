@@ -3,8 +3,8 @@ layout: page
 title: "À propos"
 description: "Ingénieur bionumérique spécialisé en analyse de données cliniques et intelligence artificielle"
 background: "/img/about-bg.jpg"
+permalink: /about/
 ---
-
 <div style="max-width: 900px; margin: 0 auto;">
 
 <div style="text-align: center; margin-bottom: 3rem;">
